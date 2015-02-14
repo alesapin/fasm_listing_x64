@@ -3,9 +3,9 @@ Fasm listing tool, for x86_64 - linux.
 
 Compile:
 
-  fasm listing.asm
+  fasm listing64.asm
   
-  gcc -s listing.o -o listing
+  gcc -s listing64.o -o listing
 
 Use:
 
