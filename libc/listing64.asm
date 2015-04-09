@@ -126,9 +126,9 @@ invalid_option_value:
 	stc
 	ret
 
-  include 'system.inc'
+  include 'system64.inc'
 
-  include '..\listing.inc'
+  include '..\listing64.inc'
 
 section '.data' writeable align 4
 
