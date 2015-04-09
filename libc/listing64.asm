@@ -2,7 +2,7 @@
 	format	ELF64
 	public	main
 
-include 'ccall.inc'
+include 'ccall64.inc'
 
 section '.text' executable align 16
 
